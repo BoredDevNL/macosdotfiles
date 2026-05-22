@@ -1,0 +1,15 @@
+window-subtitle = working-directory
+window-padding-x = 11
+window-padding-y = 0
+window-padding-balance = false
+background-opacity = 0.70
+background-blur = 70
+theme = Ayu Mirage
+cursor-color = #FFFFFF
+cursor-text = #1f2430
+cursor-style = bar
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+font-family = "JetBrainsMono Nerd Font Mono"
+adjust-underline-thickness =
+confirm-close-surface = false
